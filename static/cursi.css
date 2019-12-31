@@ -1,0 +1,40 @@
+.tit{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
+.Des{
+    font-size: x-large;
+    text-align: justify;
+
+}
+
+.enclaustrar{
+    margin: 7px ;
+    border-radius: 10%;
+    border: 1px solid black;
+    padding: 7px;
+    margin-bottom: 10px;
+}
+
+
+.Fotiti{
+    text-align: center;
+
+}
+
+.fotiti{
+    width: 60%;
+    border: 2px solid black;
+    
+    box-shadow: 10px 10px 10px black;
+    margin-bottom: 20px;
+
+}
+
+.cursi{
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+
+}

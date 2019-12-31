@@ -1,0 +1,53 @@
+
+
+.cabecera{
+    box-sizing: border-box;
+    display: inline-flexbox;
+    text-align: center;
+   
+    
+}
+
+.fotocabecera{
+    width: 30%;
+    border: 2px solid black;
+    border-radius: 50%;
+    box-shadow: 10px 10px 10px black;
+    margin-bottom: 20px;
+  
+}
+
+.titulo{
+    text-align: center;
+    color: black;
+    font: bold;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.contenedor{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 15px;
+    border: 2px solid black;
+    background-attachment: fixed;
+    background: url(imagenes/imagen11.jpg);
+    
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 15px;
+}
+
+.desc{
+    text-align: justify;
+    font-size: x-large;
+    
+}
+
+
+.prueba{
+    
+    font-size: 75px;
+    font: bold;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
